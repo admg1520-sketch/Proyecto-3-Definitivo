@@ -1,0 +1,17 @@
+ES UN IMFORME PARA LA  RUBRICA DE TODO LO QUE HICE :
+
+Durante el desarrollo del JavaScript, la IA presentó dificultades continuas  al intentar resolver errores específicos, llegando a poner código sin sentido o funciones que no se conectaban correctamente:
+
+Para ser mas especificos:Intente primero la interfaz de los botones y la  barra se me dificulto ya que la IA me llegaba a optimizar el codigo nada mas centrandose en eso y al principio pense que era mi forma de decir las cosas y lo intente de otra forma ,esta vez si lo hizo pero saltaba errores las canciones no estban la barra desaparecia ,hasta que me di cuenta que estaba delirando pero esto no paso 1 ni dos veces sino a cada mas o menos 10 "preguntas" volvia a lo mismo . Pero de igual forma daba paso tras paso cambiando lo yo mismo y pude terminarlo.
+
+Prompt 1:"Hazme el código para que el reproductor pueda reproducir y pausar las canciones".
+
+¿Que di a entender?:"Con esta parte hice que los botones básicos del reproductor funcionaran".
+
+Prompt 2:"Hazme la parte de la barra de progreso para que se mueva sola mientras suena la canción".
+
+¿Que di a entender?:"Esto me sirvió para que la interfaz se vea más completa y profesional". 
+
+Prompt 3:"Ayúdame a organizar el diseño para que las canciones se vean bien en pantalla."
+
+¿Que di a entender?:"Esto lo usé para que el reproductor no se viera desordenado y tuviera una buena apariencia".
